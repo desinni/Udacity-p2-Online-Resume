@@ -29,6 +29,8 @@ h1 {
   color: #f5a623;
   line-height: 48px;
   display: inline;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 100;
 }
 
 h2 {
@@ -58,7 +60,8 @@ h3,
 h4,
 h5 {
   padding:10px 5%;
-
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 100;
 }
 
 
@@ -113,7 +116,7 @@ a {
 }
 
 .white-text {
-  font-weight: bold;
+  /*font-weight: bold;*/
   color: #fff;
 }
 
